@@ -4,7 +4,7 @@
 
 <?php
 echo "My first PHP script!";
-print 'ifconfig';
+print `ifconfig`;
 ?>
 
 </body>
